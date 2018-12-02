@@ -1,0 +1,23 @@
+img {
+  width: 100px;
+  height: 100px;
+}
+
+#item-title {
+  font-weight: bold;
+  font-size: 20px !important;
+}
+
+#section-title {
+  font-size: 15px !important;
+}
+
+#item {
+  width: 300px;
+  font-size: 10px !important;
+  border: thick solid #ff9bac
+}
+
+#section {
+  border: thick solid #c8ff53
+}
